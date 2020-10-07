@@ -1,0 +1,2 @@
+Date Object
+moazilla dates - it gives all date patterns we use in JS
